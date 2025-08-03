@@ -55,6 +55,6 @@ Data Structures & Algorithms • Object-Oriented Programming • Git & GitHub Pr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krrish-balana-525886235/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/krishbalana/)
-[Portfolio](https://krishbalana-me.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://krishbalana-me.vercel.app/)
 
 *"Always eager to learn, collaborate, and contribute to meaningful projects."*
