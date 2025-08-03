@@ -53,8 +53,8 @@ Data Structures & Algorithms • Object-Oriented Programming • Git & GitHub Pr
 
 ### Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/krrish-balana-525886235/)
-[![LeetCode](https://leetcode.com/u/krishbalana/)
-[![Portfolio](https://krishbalana-me.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krrish-balana-525886235/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/krishbalana/)
+[Portfolio](https://krishbalana-me.vercel.app/)
 
 *"Always eager to learn, collaborate, and contribute to meaningful projects."*
